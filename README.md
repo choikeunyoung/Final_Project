@@ -6,6 +6,8 @@
 
 [NES](http://nes-env.eba-9ycvw3yi.ap-northeast-2.elasticbeanstalk.com/)
 
+**NES : Never Ending Story의 준말로, 예술전공 학생들의 졸업작품 판매를 시작으로 예술가로서의 삶이 시작되기를 장려하는 뜻. **
+
 ---
 
 ![image](https://user-images.githubusercontent.com/108659935/217242265-d2461b72-781e-4335-8b79-76969734eecf.png)
@@ -28,7 +30,12 @@
 
 <br>
 
-## ⚾ 회원 가입 페이지
+## 입장시 로딩 페이지
+
+![loading](https://user-images.githubusercontent.com/108659935/217294253-dabcc667-3ac5-408a-a3c8-afc22837c495.gif)
+
+## 회원 가입 후 로그인
+
 
 
 <br>
