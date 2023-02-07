@@ -6,7 +6,7 @@
 
 [NES](http://nes-env.eba-9ycvw3yi.ap-northeast-2.elasticbeanstalk.com/)
 
-**NES : Never Ending Story의 준말로, 예술전공 학생들의 졸업작품 판매를 시작으로 예술가로서의 삶이 시작되기를 장려하는 뜻. **
+**NES : Never Ending Story의 준말로, 예술전공 학생들의 졸업작품 판매를 시작으로 예술가로서의 삶이 시작되기를 장려하는 뜻.**
 
 ---
 
